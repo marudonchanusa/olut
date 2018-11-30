@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="shift-jis"?>
+<ArrayOfSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<setting name="shipment_warehouse_code" value="01" />
+<setting name="accounting_start_month" value="01" />
+<setting name="show_after_close" value="3" />
+<setting name="tax" value="0.05" />
+<setting name="company_name" value="(株)エヌティー・トレーディング・コーポレーション" />
+<setting name="company_address_1" value="〒169-8530 東京都新宿区百人町 2-25-13" />
+<setting name="company_address_2" value="TEL: 03-3369-9100 / FAX: 03-5389-3003" />
+
+</ArrayOfSettings>

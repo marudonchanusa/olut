@@ -1,0 +1,42 @@
+<STYLE>
+.test
+{
+    BACKGROUND-COLOR: #FFFF99;
+    FOREGROUND-COLOR: RED;
+
+}
+BODY
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px;
+    FONT-FAMILY: osaka, Gothic, sans-serif;
+    BACKGROUND-COLOR: #ffff99
+}
+
+.name_cell
+{
+	ALIGN: Right;
+	BACKGROUND-COLOR: #003300;
+	COLOR: WHITE;
+	FONT: bold;
+}
+
+.input_cell
+{
+	ALIGN: Right;
+	BACKGROUND-COLOR: #ffffff;
+}
+
+.hankaku
+{
+	ime-mode: disabled;
+}
+
+.zenkaku
+{
+	ime-mode: active;
+}
+</STYLE>

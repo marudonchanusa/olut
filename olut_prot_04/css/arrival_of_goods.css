@@ -1,0 +1,69 @@
+<STYLE>
+
+body
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px;
+    FONT-FAMILY: osaka, Gothic, sans-serif;
+    BACKGROUND-COLOR: #ccffcc;
+}
+
+.body
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px;
+    FONT-FAMILY: osaka, Gothic, sans-serif;
+    BACKGROUND-COLOR: #ccffcc;
+}
+
+.header_cell
+{
+    BACKGROUND-COLOR:#FFFFCC;
+}
+
+.left_number_cell
+{
+    BACKGROUND-COLOR:#FFCCCC;
+}
+
+.data_cell
+{
+    BACKGROUND-COLOR:#FFFFFF;
+}
+
+.name_cell
+{
+	ALIGN: Right;
+	BACKGROUND-COLOR: #003300;
+	COLOR: WHITE;
+	FONT: bold;
+}
+
+.input_cell
+{
+	ALIGN: Right;
+	BACKGROUND-COLOR: #ffffff;
+}
+
+.hankaku
+{
+	ime-mode: disabled;
+}
+
+.zenkaku
+{
+	ime-mode: active;
+}
+
+.money
+{
+	text-align:right;
+	ime-mode: disabled;
+}
+</STYLE>
